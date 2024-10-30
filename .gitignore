@@ -1,0 +1,18 @@
+# .env files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Directories
+data/
+
+# OS-specific files (macOS)
+.DS_Store
+
+# Python specific
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints
+.jupyter
